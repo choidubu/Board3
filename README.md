@@ -1,1 +1,1 @@
-# SpringBoard# SpringBoard2
+새 회원 추가 클릭 후 입력, 등록하면 회원 목록에 나타남
